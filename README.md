@@ -1,7 +1,8 @@
 # TIS E-Portfolio
 
 ## 👤 Student Information
-Name: Amr Khaled  
+Name: Amr Khaled Qatab
+Matric: A24CS4100
 Program: Network and Security  
 University: Universiti Teknologi Malaysia (UTM)  
 
