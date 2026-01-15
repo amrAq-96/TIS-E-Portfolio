@@ -1,6 +1,6 @@
 # TIS E-Portfolio
 
-Name: Amr Khaled  
+Name: Amr Khaled Qatab
 Program: Network and Security  
 University: Universiti Teknologi Malaysia (UTM)
 
