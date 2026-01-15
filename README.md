@@ -1,9 +1,7 @@
 # TIS E-Portfolio
 
 Name: Amr Khaled Qatab
-
 Program: Network and Security  
-
 University: Universiti Teknologi Malaysia (UTM)
 
 This repository contains my submissions and reflections for the
