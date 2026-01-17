@@ -1,1 +1,0 @@
-# Final Project – Design Thinking
